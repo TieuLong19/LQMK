@@ -21,7 +21,7 @@ background-color: #f5f5f5
 		position: relative;
 		margin: 0;
 		padding: 0;
-		max-height: 250px;
+		max-height: 270px;
 		-webkit-border-radius: 5px;
 		-moz-border-radius: 5px;
 		border-radius: 5px;
@@ -100,4 +100,7 @@ background-color: #f5f5f5
 		text-transform: none;
 		font-weight:300;
 	}
-	
+	 
+	.show_blockdefault h3{
+		color: black;
+	}
